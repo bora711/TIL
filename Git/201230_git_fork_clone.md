@@ -11,3 +11,15 @@
 ![image-20201230155213026](201230_git_fork_clone.assets/image-20201230155213026.png)
 
 ![image-20201230155252148](201230_git_fork_clone.assets/image-20201230155252148.png)
+
+![image-20201230161257880](201230_git_fork_clone.assets/image-20201230161257880.png)
+
+![image-20201230161315619](201230_git_fork_clone.assets/image-20201230161315619.png)
+
+
+
+![image-20201230161346143](201230_git_fork_clone.assets/image-20201230161346143.png)
+
+
+
+![image-20201230161559151](201230_git_fork_clone.assets/image-20201230161559151.png)
